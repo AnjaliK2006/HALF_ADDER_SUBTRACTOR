@@ -60,6 +60,7 @@ Developed by: Anjali K RegisterNumber: 24900073
 
 
 **RTL Schematic**
+
 ![Screenshot (7)](https://github.com/user-attachments/assets/7bc57b9e-9ee3-4a3c-8826-9872d2958e49)
 
 **Output/TIMING Waveform**
